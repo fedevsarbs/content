@@ -347,7 +347,7 @@
         "subtitle": "Explore my featured work, from professional products to personal experiments and university projects available on GitHub.",
         "githubConfig": {
             "username": "fedevsarbs",
-            "token": "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"
+            "token": ""
         },
         "metaCandidates": [
             "meta.md",
