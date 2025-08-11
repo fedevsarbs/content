@@ -1,0 +1,366 @@
+{
+    "header": {
+        "logo": "Moniruzaman",
+        "navigation": [
+            {
+                "id": "home",
+                "label": "Home",
+                "href": "#home"
+            },
+            {
+                "id": "about",
+                "label": "About",
+                "href": "#about"
+            },
+            {
+                "id": "projects",
+                "label": "Projects",
+                "href": "#projects"
+            },
+            {
+                "id": "github",
+                "label": "GitHub",
+                "href": "#github"
+            },
+            {
+                "id": "skills",
+                "label": "Skills",
+                "href": "#skills"
+            },
+            {
+                "id": "experience",
+                "label": "Experience",
+                "href": "#experience"
+            },
+            {
+                "id": "education",
+                "label": "Education",
+                "href": "#education"
+            },
+            {
+                "id": "contact",
+                "label": "Contact",
+                "href": "#contact"
+            }
+        ],
+        "resumeButton": {
+            "text": "Download Resume",
+            "icon": "Download"
+        }
+    },
+    "hero": {
+        "name": "Md Moniruzaman",
+        "title": "R&D Manager | Embedded Systems & IoT Expert",
+        "subtitle": "Transforming Ideas into Smart, Scalable Products",
+        "buttons": [
+            {
+                "text": "Explore My Work",
+                "type": "primary",
+                "icon": "ArrowRight"
+            },
+            {
+                "text": "Download Resume",
+                "type": "secondary",
+                "icon": "Download"
+            }
+        ],
+        "image": {
+            "src": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "alt": "Md Moniruzaman"
+        }
+    },
+    "about": {
+        "title": "About Me",
+        "heading": "Passionate about building impactful technology solutions",
+        "description": [
+            "As Manager of R&D at SARBS Communications Ltd., I lead innovative projects that bridge the gap between cutting-edge technology and real-world applications. With over 8 years of experience in embedded systems and IoT product development, I specialize in creating smart, scalable solutions for telecom, energy, and industrial automation sectors.",
+            "My journey in technology is driven by a passion for innovation and a commitment to excellence. I believe in the power of embedded systems and IoT to transform industries and improve lives, and I'm dedicated to pushing the boundaries of what's possible in this rapidly evolving field."
+        ],
+        "highlights": [
+            {
+                "icon": "Clock",
+                "title": "8+ Years Experience",
+                "description": "Leading teams in embedded systems and IoT development"
+            },
+            {
+                "icon": "Target",
+                "title": "Innovation Focus",
+                "description": "Transforming complex ideas into market-ready products"
+            }
+        ],
+        "image": {
+            "src": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "alt": "Technology workspace"
+        }
+    },
+    "skills": {
+        "title": "Technical Skills",
+        "subtitle": "Comprehensive expertise in embedded systems, IoT development, and cutting-edge technologies",
+        "categories": [
+            {
+                "title": "Programming Languages",
+                "icon": "Code",
+                "skills": [
+                    {
+                        "name": "Embedded C",
+                        "level": 95
+                    },
+                    {
+                        "name": "C++",
+                        "level": 90
+                    },
+                    {
+                        "name": "Python",
+                        "level": 85
+                    },
+                    {
+                        "name": "JavaScript",
+                        "level": 80
+                    }
+                ]
+            },
+            {
+                "title": "Microcontrollers & Platforms",
+                "icon": "Cpu",
+                "skills": [
+                    {
+                        "name": "ESP32/ESP8266",
+                        "level": 95
+                    },
+                    {
+                        "name": "STM32",
+                        "level": 90
+                    },
+                    {
+                        "name": "ATmega Series",
+                        "level": 85
+                    },
+                    {
+                        "name": "FreeRTOS",
+                        "level": 88
+                    }
+                ]
+            },
+            {
+                "title": "Communication Protocols",
+                "icon": "Wifi",
+                "skills": [
+                    {
+                        "name": "MQTT",
+                        "level": 92
+                    },
+                    {
+                        "name": "UART/SPI/I2C",
+                        "level": 95
+                    },
+                    {
+                        "name": "RS485",
+                        "level": 88
+                    },
+                    {
+                        "name": "LoRaWAN",
+                        "level": 85
+                    }
+                ]
+            },
+            {
+                "title": "Development Tools",
+                "icon": "Settings",
+                "skills": [
+                    {
+                        "name": "Altium Designer",
+                        "level": 90
+                    },
+                    {
+                        "name": "Proteus",
+                        "level": 85
+                    },
+                    {
+                        "name": "Git/GitHub",
+                        "level": 88
+                    },
+                    {
+                        "name": "Firebase",
+                        "level": 82
+                    }
+                ]
+            }
+        ],
+        "additionalSkills": [
+            "ESP-IDF",
+            "Arduino IDE",
+            "PCB Design",
+            "Circuit Analysis",
+            "Sensor Integration",
+            "Wireless Communication",
+            "Cloud Integration",
+            "Product Development",
+            "Team Leadership",
+            "Project Management"
+        ]
+    },
+    "experience": {
+        "title": "Professional Experience",
+        "subtitle": "A journey of innovation, leadership, and technical excellence in embedded systems and IoT development",
+        "experiences": [
+            {
+                "title": "Manager, R&D",
+                "company": "SARBS Communications Ltd.",
+                "location": "Dhaka, Bangladesh",
+                "period": "2022 - Present",
+                "description": "Leading research and development initiatives for next-generation telecom and IoT solutions. Managing cross-functional teams to deliver innovative products from concept to market.",
+                "achievements": [
+                    "Led development of 5+ IoT products generating $2M+ in revenue",
+                    "Established R&D processes reducing product development time by 40%",
+                    "Built and managed a team of 12 engineers and researchers",
+                    "Secured 3 patents for innovative embedded system designs"
+                ]
+            },
+            {
+                "title": "Lead Engineer & Consultant",
+                "company": "A2Sys Technologies",
+                "location": "Dhaka, Bangladesh",
+                "period": "2019 - 2022",
+                "description": "Provided technical leadership and consulting services for embedded systems projects. Specialized in IoT solutions for industrial automation and smart city applications.",
+                "achievements": [
+                    "Delivered 15+ successful embedded systems projects",
+                    "Reduced client development costs by 30% through optimized solutions",
+                    "Mentored junior engineers in embedded systems design",
+                    "Established partnerships with 5 major technology vendors"
+                ]
+            }
+        ]
+    },
+    "education": {
+        "title": "Education",
+        "degree": "Bachelor of Science in Energy Science & Engineering",
+        "institution": "Khulna University of Engineering & Technology (KUET)",
+        "period": "2012 - 2016",
+        "location": "Khulna, Bangladesh",
+        "description": "Specialized in energy systems, renewable technologies, and engineering fundamentals. Developed strong analytical and problem-solving skills that form the foundation of my approach to embedded systems and IoT product development.",
+        "coursework": [
+            "Electronics & Circuit Analysis",
+            "Control Systems Engineering",
+            "Power Electronics",
+            "Instrumentation & Measurement"
+        ],
+        "achievements": [
+            "Dean's List for Academic Excellence",
+            "Final Year Project on Smart Grid Systems",
+            "Research Publication in Energy Systems",
+            "Active Member of Engineering Society"
+        ]
+    },
+    "certifications": {
+        "title": "Professional Certifications & Training",
+        "certifications": [
+            {
+                "title": "Embedded Systems Design",
+                "description": "Advanced certification covering microcontroller programming, real-time systems, and hardware-software integration."
+            },
+            {
+                "title": "IoT Architecture & Security",
+                "description": "Comprehensive training on IoT system design, security protocols, and cloud integration for industrial applications."
+            },
+            {
+                "title": "Project Management Professional",
+                "description": "Professional certification in project management methodologies, team leadership, and product development lifecycle."
+            }
+        ]
+    },
+    "contact": {
+        "title": "Get In Touch",
+        "subtitle": "Ready to discuss your next embedded systems or IoT project? Let's connect and explore how we can bring your ideas to life.",
+        "heading": "Let's Start a Conversation",
+        "description": "Whether you're looking for technical consultation, project collaboration, or just want to discuss the latest in embedded systems and IoT, I'd love to hear from you.",
+        "contactInfo": [
+            {
+                "type": "Email",
+                "icon": "Mail",
+                "value": "moniruzaman@example.com"
+            },
+            {
+                "type": "Phone",
+                "icon": "Phone",
+                "value": "+880 1234 567890"
+            },
+            {
+                "type": "Location",
+                "icon": "MapPin",
+                "value": "Dhaka, Bangladesh"
+            }
+        ],
+        "socialLinks": [
+            {
+                "platform": "LinkedIn",
+                "icon": "Linkedin",
+                "href": "#"
+            },
+            {
+                "platform": "GitHub",
+                "icon": "Github",
+                "href": "#"
+            }
+        ],
+        "form": {
+            "fields": [
+                {
+                    "name": "firstName",
+                    "label": "First Name",
+                    "type": "text",
+                    "placeholder": "John"
+                },
+                {
+                    "name": "lastName",
+                    "label": "Last Name",
+                    "type": "text",
+                    "placeholder": "Doe"
+                },
+                {
+                    "name": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "placeholder": "john@example.com"
+                },
+                {
+                    "name": "subject",
+                    "label": "Subject",
+                    "type": "text",
+                    "placeholder": "Project Discussion"
+                },
+                {
+                    "name": "message",
+                    "label": "Message",
+                    "type": "textarea",
+                    "placeholder": "Tell me about your project...",
+                    "rows": 5
+                }
+            ],
+            "submitButton": {
+                "text": "Send Message",
+                "icon": "Send"
+            }
+        }
+    },
+    "projects": {
+        "title": "Projects & Repositories",
+        "subtitle": "Explore my featured work, from professional products to personal experiments and university projects available on GitHub.",
+        "githubConfig": {
+            "username": "fedevsarbs",
+            "token": "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"
+        },
+        "metaCandidates": [
+            "meta.md",
+            "META.md",
+            "testing/meta.md",
+            ".github/meta.md",
+            "docs/meta.md"
+        ],
+        "personalProjectCard": {
+            "title": "Personal Projects Repository",
+            "description": "Independent experiments and prototypes, focused on real-world embedded and IoT applications.",
+            "buttonText": "View Repository",
+            "icon": "FolderOpen"
+        }
+    }
+}
