@@ -50,6 +50,7 @@
         "buttons": [
             {
                 "text": "Explore My Work",
+                "href": "#projects",
                 "type": "primary",
                 "icon": "ArrowRight"
             },
@@ -57,6 +58,7 @@
                 "text": "Download Resume",
                 "type": "secondary",
                 "icon": "Download"
+                "href": "/",
             }
         ],
         "image": {
