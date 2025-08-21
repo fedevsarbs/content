@@ -51,12 +51,14 @@
             {
                 "text": "Explore My Work",
                 "type": "primary",
-                "icon": "ArrowRight"
+                "icon": "ArrowRight",
+                "href": "#projects"
             },
             {
                 "text": "Download Resume",
                 "type": "secondary",
-                "icon": "Download"
+                "icon": "Download",
+                "href": "/"
             }
         ],
         "image": {
